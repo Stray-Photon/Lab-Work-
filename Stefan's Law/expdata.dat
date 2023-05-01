@@ -1,4 +1,4 @@
-Voltage(V),Current(A)
+#Voltage(V),Current(A)
 5,0.22
 5.5,0.23
 6,0.24
